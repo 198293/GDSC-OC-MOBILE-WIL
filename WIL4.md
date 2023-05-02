@@ -53,4 +53,4 @@ border: border.all(color: Colors.black))
     
     → 아이콘 정렬 가능
     
-- Container는 무겁기 때문에 `SizedBox`로 대체할 수 있다.
+- Container는 무겁기 때문에 `SizedBox`로 대체할 수 있다
